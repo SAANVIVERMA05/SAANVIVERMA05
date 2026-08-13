@@ -83,16 +83,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Links |
-|-------|-------------|------------|-------|
-| **Inventory Management System** | Full-stack inventory system with authentication & payments | React • Node • MongoDB | [Demo](#) • [Code](#) |
-| **Analytics Dashboard** | Real-time dashboard with charts and animations | React • Redux • Chart.js | [Demo](#) • [Code](#) |
-| **Automation Bot** | Script to automate tasks and data extraction | Python • Selenium | [Demo](#) • [Code](#) |
-| **Recommendation System** | ML-based recommendation engine | Python • ML • TensorFlow | [Demo](#) • [Code](#) |
-| **Portfolio Website** | Modern animated portfolio with dark mode | Next.js • Tailwind | [Live](#) • [Code](#) |
-
 ---
 
 ## 📚 Education & Certifications
