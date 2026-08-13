@@ -115,9 +115,45 @@ Status: 🚧 In Development
 
 ⭐ GitHub Statistics
 
+## 📊 GitHub Analytics
+
+### 📈 Contribution Overview
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saanviverma05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanviverma05&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" alt="Top languages"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanviverma05&theme=github_dark"
+    alt="Saanvi Verma GitHub Contribution Overview"
+  />
+</p>
+
+### 💻 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saanviverma05&theme=github_dark"
+    width="49%"
+    alt="Saanvi Verma GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saanviverma05&theme=github_dark"
+    width="49%"
+    alt="Saanvi Verma Repository Languages"
+  />
+</p>
+
+### 🧠 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saanviverma05&theme=github_dark"
+    width="49%"
+    alt="Saanvi Verma Most Committed Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saanviverma05&theme=github_dark&utcOffset=5.5"
+    width="49%"
+    alt="Saanvi Verma Productive Coding Time"
+  />
 </p>
 
 
