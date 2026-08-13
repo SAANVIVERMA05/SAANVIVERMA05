@@ -157,29 +157,6 @@ Status: 🚧 In Development
 </p>
 
 
-📅 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=saanviverma05&theme=tokyonight&hide_border=true"
-    alt="Saanvi Verma GitHub Contribution Streak"
-  />
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saanviverma05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
-</p>
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SAANVIVERMA05/SAANVIVERMA05/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
-
-Note: The snake animation requires a GitHub Actions workflow in the profile repository. If the image does not appear initially, add the workflow described below.
-
 🌐 Connect With Me
 
 <p align="center">
