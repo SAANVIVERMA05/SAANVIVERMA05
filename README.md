@@ -1,114 +1,172 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">Welcome to my GitHub profile! Full Stack Developer | AI/ML Enthusiast | Freelancer | Competitive Programmer</h3>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo" />
-</div>
 
-<br/>
+👋 Hi, I'm Saanvi Verma
 
-<div align="center">
+Full Stack Developer • AI/ML Enthusiast • Competitive Coder
+
+<p>
   <a href="https://github.com/SAANVIVERMA05">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+    <img src="https://img.shields.io/badge/GitHub-SAANVIVERMA05-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="mailto:example@email.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  <a href="https://linkedin.com/in/saanvi-verma-71a370275">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="leetcode logo" />
-  <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo" />
+  <a href="mailto:saanvi9262@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=saanviverma05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+
 </div>
 
----
+🚀 About Me
 
-## 🌐 Find Me
+I'm a Full Stack Developer and AI/ML enthusiast who enjoys building practical applications, learning new technologies, and solving software engineering problems.
 
-| Platform | Badge | Link |
-|---------|-------|------|
-| **Portfolio** | ![Portfolio](https://img.shields.io/badge/Portfolio-00EA64?style=for-the-badge&logo=vercel&logoColor=black) | [Live](#) |
-| **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | https://github.com/SAANVIVERMA05 |
-| **LinkedIn** | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [Profile](#) |
-| **Email** | ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) | [Mail](mailto:example@email.com) |
-| **LeetCode** | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | [Profile](#) |
-| **CodeChef** | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | [Profile](#) |
-| **GeeksforGeeks** | ![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [Profile](#) |
-| **HackerRank** | ![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black) | [Profile](#) |
+🔭 Currently working on Exprense
 
----
+🌱 Currently learning Agentic AI, Generative AI, AWS & Next.js
 
-## 🛠️ Tech Stack & Skills
+👯 Looking to collaborate on Credex
 
-### **AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FF9E0F?style=for-the-badge&logo=openai&logoColor=white)
+🤝 Looking for help with Credex
 
-### **Core CS**
-![DSA](https://img.shields.io/badge/DSA-FF5722?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge)
-![OOPS](https://img.shields.io/badge/OOPS-4CAF50?style=for-the-badge)
-![OS](https://img.shields.io/badge/OS-607D8B?style=for-the-badge)
+💬 Ask me about Full Stack Development & SDE
 
----
+📫 Reach me at saanvi9262@gmail.com
 
----
+⚡ Fun fact: I love to do everything
 
-## 📚 Education & Certifications
+🛠️ Tech Stack
 
-🎓 **Bachelor's Degree in Computer Science**
-📜 **Data Analytics Certification**
-📜 **Full Stack Development Certification**
-📜 **Cloud / DevOps Fundamentals**
+💻 Languages
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,dart,kotlin" alt="Programming languages"/>
+</p>
 
-## 🏆 Achievements
+🌐 Frontend & Mobile
 
-![LeetCode](https://img.shields.io/badge/500%2B-Problems_Solved-FFA116?logo=leetcode)
-![CodeChef](https://img.shields.io/badge/Top_Rank-Competitive_Coding-5B4638?logo=codechef)
-![HackerRank](https://img.shields.io/badge/5★-HackerRank-00EA64?logo=hackerrank)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,react,nextjs,vue,redux,flutter" alt="Frontend and mobile technologies"/>
+</p>
 
----
+⚙️ Backend & Databases
 
-## 📊 GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,mysql,postgres,redis,firebase,appwrite" alt="Backend and databases"/>
+</p>
+
+☁️ Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,figma" alt="Cloud DevOps and tools"/>
+</p>
+
+🤖 AI / ML & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI and machine learning"/>
+</p>
+
+📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+💰 Exprense
+
+An expense-tracking project currently being worked on.
+
+Focus: Full Stack Development
+
+🔗 View Repository
+
+</td>
+<td width="50%">
+
+💳 Credex
+
+A project open for collaboration and development.
+
+Status: 🚧 In Development
+
+🔗 View Repository
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/SAANVIVERMA05?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore repositories"/>
+  </a>
+</p>
+
+📊 GitHub Analytics
+
+📈 Contribution Overview
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanviverma05&theme=github_dark" alt="GitHub contribution overview"/>
+</p>
+
+⭐ GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saanviverma05&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanviverma05&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" alt="Top languages"/>
+</p>
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saanviverma05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+📅 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saanviverma05&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+</p>
+
+🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saanviverma05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+</p>
+
+🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SAANVIVERMA05/SAANVIVERMA05/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+Note: The snake animation requires a GitHub Actions workflow in the profile repository. If the image does not appear initially, add the workflow described below.
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/saanvi-verma-71a370275">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:saanvi9262@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+💭 Developer Mindset
+
+Learn continuously. Build consistently. Improve every day.
+
+I'm always exploring new technologies and looking for opportunities to build, collaborate, and grow as a developer.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAANVIVERMA05&show_icons=true&theme=radical&cache_seconds=86400" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAANVIVERMA05&layout=compact&theme=dark&cache_seconds=86400" width="45%" alt="Top Languages" />
+
+⭐ Thanks for visiting my profile!
+
+Let's build something awesome together 🚀
+
 </div>
-
----
-
-✨ *Open to collaborations, freelance work, and exciting opportunities!*
