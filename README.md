@@ -120,11 +120,6 @@ Status: 🚧 In Development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanviverma05&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" alt="Top languages"/>
 </p>
 
-🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saanviverma05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</p>
 
 📅 Contribution Activity
 
