@@ -115,8 +115,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAANVIVERMA05&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAANVIVERMA05&layout=compact&theme=dark" width="45%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SAANVIVERMA05&show_icons=true&theme=radical&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAANVIVERMA05&layout=compact&theme=dark&cache_seconds=86400" width="45%" alt="Top Languages" />
 </div>
 
 ---
