@@ -113,18 +113,6 @@ Status: 🚧 In Development
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanviverma05&theme=github_dark" alt="GitHub contribution overview"/>
 </p>
 
-⭐ GitHub Statistics
-
-## 📊 GitHub Analytics
-
-### 📈 Contribution Overview
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saanviverma05&theme=github_dark"
-    alt="Saanvi Verma GitHub Contribution Overview"
-  />
-</p>
 
 ### 💻 GitHub Statistics
 
