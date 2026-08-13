@@ -43,7 +43,7 @@
   <a href="https://github.com/SAANVIVERMA05">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="saanvi9262@gmail.com">
+  <a href="mailto:example@email.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -60,7 +60,7 @@
 | **Portfolio** | ![Portfolio](https://img.shields.io/badge/Portfolio-00EA64?style=for-the-badge&logo=vercel&logoColor=black) | [Live](#) |
 | **GitHub** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | https://github.com/SAANVIVERMA05 |
 | **LinkedIn** | ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) | [Profile](#) |
-| **Email** | ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) | [Mail](saanvi9262@gmail.com) |
+| **Email** | ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white) | [Mail](mailto:example@email.com) |
 | **LeetCode** | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black) | [Profile](#) |
 | **CodeChef** | ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) | [Profile](#) |
 | **GeeksforGeeks** | ![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white) | [Profile](#) |
@@ -114,9 +114,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAANVIVERMA05&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAANVIVERMA05&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAANVIVERMA05&show_icons=true&theme=radical" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAANVIVERMA05&layout=compact&theme=dark" width="45%" alt="Top Languages" />
+</div>
 
 ---
 
