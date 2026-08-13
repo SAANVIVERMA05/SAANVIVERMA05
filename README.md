@@ -160,7 +160,10 @@ Status: 🚧 In Development
 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saanviverma05&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=saanviverma05&theme=tokyonight&hide_border=true"
+    alt="Saanvi Verma GitHub Contribution Streak"
+  />
 </p>
 
 🏆 GitHub Trophies
