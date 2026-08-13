@@ -158,7 +158,14 @@ Note: The snake animation requires a GitHub Actions workflow in the profile repo
 </p>
 
 💭 Developer Mindset
+###
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SAANVIVERMA05/SAANVIVERMA05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SAANVIVERMA05/SAANVIVERMA05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SAANVIVERMA05/SAANVIVERMA05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
+###
 Learn continuously. Build consistently. Improve every day.
 
 I'm always exploring new technologies and looking for opportunities to build, collaborate, and grow as a developer.
